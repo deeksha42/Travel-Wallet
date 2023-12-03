@@ -1,0 +1,12 @@
+.popular {
+  text-align: center;
+  font-size: 45px;
+  margin-top: 10%;
+}
+.card-container1 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: 40px;
+}

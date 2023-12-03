@@ -1,0 +1,29 @@
+.mainback {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  font: inherit;
+  padding-top: 0;
+  padding: 10vh;
+  margin: 10vh 10vh;
+}
+
+.page {
+  width: 100%;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  font: inherit;
+}
+
+.heading {
+  font-size: 2rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .heading {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+  }
+}

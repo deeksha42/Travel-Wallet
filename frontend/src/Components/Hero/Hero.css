@@ -1,0 +1,76 @@
+.card {
+  position: relative;
+}
+
+.hero {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.hero-mid {
+  width: 100%;
+  height: 80vh;
+  position: relative;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-text {
+  display: block; /* Add this property */
+  justify-content: center;
+  align-items: center; /* Add this property */
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.hero-header {
+  text-align: center;
+}
+
+.hero-link {
+  text-align: center;
+  margin-top: 20px; /* You can adjust the margin as needed */
+}
+
+.hero-text h1 {
+  align-content: center;
+  font-size: 3rem;
+  font-weight: bolder;
+  color: white;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+.hero-mid h1 {
+  padding-top: 4rem !important;
+}
+
+.hero-text .show {
+  text-decoration: none;
+  background: white;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: black;
+}
+
+@media screen and (max-width: 555px) {
+  .hero-text h1 {
+    padding: 10px 20px;
+  }
+
+  .hero-text .show {
+    padding: 0.6rem 1.1rem;
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+}

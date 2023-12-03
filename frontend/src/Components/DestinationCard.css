@@ -1,0 +1,34 @@
+.card1 {
+  width: 400px;
+  background-color: rgb(220, 230, 245);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 4px 2px 4px rgba(0, 0, 0, 0.4);
+  margin-left: 50px;
+  padding: 7px;
+  margin: 30px;
+}
+.card1 img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+.card-content {
+  padding: 13px;
+}
+
+.card-content h3 {
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+
+.card1:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transform: scale(1.1);
+  cursor: pointer;
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 0;
+  padding: 0;
+}

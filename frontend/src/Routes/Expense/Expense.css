@@ -1,0 +1,60 @@
+body1 {
+    font-family: 'Arial', sans-serif;
+  }
+
+  .background-container {
+    background-color: #CCE1F2; /* Replace with your desired background color */
+  }
+  
+  .container1 {
+    background-color:#CCE1F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .add-destination-container {
+    background-color:aliceblue;
+    width: 300px;
+    padding: 20px;
+    margin-right: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .destinations-container {
+    background-color: aliceblue;
+    flex: 1;
+    width: 200px;
+    padding: 20px;
+    margin-right: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .expense-list-container {
+    background-color: aliceblue;
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-expense-container {
+    background-color: aliceblue;
+    flex: 1;
+    position:relative;
+    margin-right:39%;
+    margin-left: 340px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: -270px;
+  }
+  .delete-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+  }
+  

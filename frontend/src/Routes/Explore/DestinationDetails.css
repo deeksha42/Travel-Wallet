@@ -1,0 +1,38 @@
+.container1 {
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.image-container {
+  flex: 3;
+}
+
+.image-container img {
+  width: 100%;
+  width: 700px;
+  height: auto;
+  display: block;
+  align-self: left;
+  margin-left: 50px;
+  padding: 10px;
+  border: 3px solid;
+}
+
+.details-container {
+  flex: 2.5;
+  padding-left: 20px;
+}
+
+.details-container h2 {
+  font-size: 50px;
+  margin-bottom: 25px;
+}
+
+.details-container p {
+  font-size: 18px;
+  font-family: cursive;
+  color: rgb(65, 65, 65);
+}

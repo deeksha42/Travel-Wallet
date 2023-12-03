@@ -1,0 +1,32 @@
+.new-trip-link {
+  text-align: center;
+  text-decoration: none;
+  margin: 20px;
+  background: rgb(177, 212, 241);
+  padding: 1rem 2rem;
+  border-radius: 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: black;
+  width: 150px;
+  box-shadow: 5px 9px 11px 0px rgba(125, 121, 121, 0.37);
+}
+
+.new-trip-link:hover {
+  box-shadow: -5px 0px 11px 8px rgba(125, 121, 121, 0.37);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+span {
+  color: black;
+  text-decoration: none;
+  flex: 1;
+  cursor: pointer;
+  align-self: center;
+  font-size: 1rem;
+}

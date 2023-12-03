@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Manali",
+    "photo": "/images/manali.jpg",
+    "desc": "Nestled in the heart of the Himalayas, Manali captivates with its breathtaking landscapes and adventurous spirit. From snow-capped peaks to lush valleys, this picturesque town in Himachal Pradesh, India, offers a perfect blend of natural beauty and cultural charm. Whether you seek thrilling outdoor activities or serene moments in the lap of nature, Manali invites you to a world of wonder and tranquility. Embrace the warmth of its people, savor local delicacies, and let Manali weave unforgettable memories for a lifetime."
+  },
+  {
+    "id": 2,
+    "title": "Mumbai",
+    "photo": "/images/mumbai.jpg",
+    "desc": " Mumbai, India's vibrant metropolis, is a city of contrasts and dreams. From the iconic Gateway of India to the bustling street markets, it encapsulates the spirit of diversity and resilience. Home to Bollywood, the financial hub, and a melting pot of cultures, Mumbai's energy is infectious, making it a city that never sleeps.Key features of Mumbai include its iconic skyline adorned with skyscrapers, bustling street markets, and diverse culinary scene. The city is home to the Bollywood film industry, one of the largest in the world, contributing significantly to the global film landscape."
+  },
+  {
+    "id": 3,
+    "title": "Mysuru",
+    "photo": "/images/mysuru.jpg",
+    "desc": " Mysuru, also known as Mysore, is a charming city in the southern part of India, renowned for its rich cultural heritage, grand palaces, and vibrant festivals. Home to the magnificent Mysore Palace, this city seamlessly blends tradition with modernity. The fragrance of sandalwood and the allure of silk saris add to its distinctive charm. With a pleasant climate and a strong historical legacy, Mysuru invites visitors to explore its royal past and embrace its warm hospitality.It is a major cultural and artistic center, hosting the grand Mysuru Dasara festival, which attracts visitors from around the world. "
+  },
+  {
+    "id": 4,
+    "title": "Pondicherry",
+    "photo": "/images/pondicherry.jpg",
+    "desc": "Pondicherry, also known as Puducherry, is a charming union territory on the southeastern coast of India. Famous for its unique blend of French and Indian cultures, Pondicherry offers serene beaches, vibrant streets, and a rich history. The French Quarter with its colonial architecture, Auroville's spiritual retreat, and the Aurobindo Ashram add to the town's cultural allure. With a tranquil atmosphere, delectable cuisine, and a touch of old-world charm, Pondicherry invites visitors to experience a delightful fusion of cultures in a picturesque setting."
+  },
+  {
+    "id": 5,
+    "title": "Wayanad",
+    "photo": "/images/wayanad.jpg",
+    "desc": " Nestled in the Western Ghats of Kerala, Wayanad is a picturesque hill station blessed with lush green landscapes and rich biodiversity. Home to tea and spice plantations, cascading waterfalls, and wildlife sanctuaries, Wayanad is a nature lover's paradise. The region offers a perfect blend of adventure and tranquility, with attractions like Chembra Peak, Banasura Sagar Dam, and Edakkal Caves. Explore the vibrant local culture, indulge in traditional cuisine, and unwind amid the serene beauty of this enchanting destination. Wayanad promises a refreshing retreat for those seeking a peaceful escape in the lap of nature."
+  },
+  {
+    "id": 6,
+    "title": "Panaji",
+    "photo": "/images/panaji.jpg",
+    "desc": " Panaji, the capital city of Goa, is a charming blend of Portuguese heritage and coastal beauty. With its vibrant streets, colorful houses, and scenic waterfront, Panaji captures the essence of Goa's laid-back yet lively atmosphere. Stroll along the historic Fontainhas Latin Quarter, explore the bustling markets, and enjoy the fresh seafood by the Mandovi River. The city's churches, like the Our Lady of Immaculate Conception Church, add a touch of colonial charm. Panaji invites you to experience the relaxed pace of life in Goa while soaking in its unique cultural and architectural treasures."
+  },
+  {
+    "id": 7,
+    "title": "Jaipur",
+    "photo": "/images/jaipur.jpg",
+    "desc": "Jaipur, also known as the Pink City, is the capital of the northwestern Indian state of Rajasthan. Renowned for its vibrant and aesthetically pleasing architecture, Jaipur was founded in 1727 by Maharaja Sawai Jai Singh II. The city is characterized by its distinctive pink-colored buildings, which were painted in 1876 to welcome the Prince of Wales. Jaipur is a prominent tourist destination, attracting visitors with its historical forts and palaces, including the Hawa Mahal, City Palace, and Amber Fort."
+  },
+  {
+    "id": 8,
+    "title": "Hyderabad",
+    "photo": "/images/hyderabad.jpg",
+    "desc": "Hyderabad is the capital of the southern Indian state of Telangana and is known for its rich history, culture, and modern IT industry. The city was established by Muhammad Quli Qutb Shah in 1591 and later became the capital of the Nizams, a dynasty that ruled the region for several centuries. The Charminar, Golconda Fort, and Qutb Shahi Tombs are among the historical landmarks that reflect Hyderabad's architectural heritage. In recent years, Hyderabad has become a major IT and business hub, housing companies and institutions in the Information Technology and pharmaceutical sectors. The city is also famous for its cuisine, particularly the Hyderabadi biryani, a flavorful and aromatic rice dish."
+  },
+  {
+    "id": 9,
+    "title": "Kolkata",
+    "photo": "/images/kolkata.jpg",
+    "desc": "Kolkata, formerly known as Calcutta, is the capital of the Indian state of West Bengal. It is one of India's major cultural, commercial, and educational hubs. Founded by the British East India Company in the 17th century, Kolkata played a significant role in India's colonial history and was the capital of British India until 1911. The city is known for its intellectual and artistic heritage, with notable figures like Rabindranath Tagore and Satyajit Ray hailing from Kolkata. The Howrah Bridge, Victoria Memorial, and Marble Palace are iconic landmarks in the city."
+  }
+]
